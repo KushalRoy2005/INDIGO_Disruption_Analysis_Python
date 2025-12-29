@@ -1,0 +1,501 @@
+flight_date,airline,origin_airport,destination_airport,departure_delay_min,flight_status,disruption_phase,estimated_passengers,delay_category,disruption_flag,is_cancelled,passenger_impact,disruption_score
+2025-06-01,IndiGo,HYD,DEL,7,On-Time,Pre,180,Low Delay,0,0,18.0,7
+2025-06-01,IndiGo,CCU,BLR,1,On-Time,Pre,180,Low Delay,0,0,18.0,1
+2025-06-01,IndiGo,BOM,HYD,4,On-Time,Pre,180,Low Delay,0,0,18.0,4
+2025-06-01,IndiGo,CCU,HYD,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-01,IndiGo,BLR,BOM,5,On-Time,Pre,180,Low Delay,0,0,18.0,5
+2025-06-01,IndiGo,BOM,CCU,4,On-Time,Pre,180,Low Delay,0,0,18.0,4
+2025-06-01,IndiGo,HYD,DEL,12,On-Time,Pre,180,Low Delay,0,0,18.0,12
+2025-06-01,IndiGo,CCU,HYD,12,On-Time,Pre,180,Low Delay,0,0,18.0,12
+2025-06-01,IndiGo,DEL,BOM,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-01,IndiGo,HYD,CCU,8,On-Time,Pre,180,Low Delay,0,0,18.0,8
+2025-06-01,IndiGo,BLR,CCU,17,Delayed,Pre,180,Low Delay,0,0,18.0,17
+2025-06-01,IndiGo,BLR,DEL,6,On-Time,Pre,180,Low Delay,0,0,18.0,6
+2025-06-01,IndiGo,BLR,HYD,1,On-Time,Pre,180,Low Delay,0,0,18.0,1
+2025-06-01,IndiGo,CCU,BOM,9,On-Time,Pre,180,Low Delay,0,0,18.0,9
+2025-06-01,IndiGo,HYD,CCU,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-01,IndiGo,CCU,HYD,4,On-Time,Pre,180,Low Delay,0,0,18.0,4
+2025-06-01,IndiGo,BLR,BOM,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-01,IndiGo,HYD,BOM,2,On-Time,Pre,180,Low Delay,0,0,18.0,2
+2025-06-01,IndiGo,BOM,CCU,6,On-Time,Pre,180,Low Delay,0,0,18.0,6
+2025-06-01,IndiGo,HYD,DEL,9,On-Time,Pre,180,Low Delay,0,0,18.0,9
+2025-06-01,IndiGo,CCU,HYD,6,On-Time,Pre,180,Low Delay,0,0,18.0,6
+2025-06-01,IndiGo,BOM,DEL,13,On-Time,Pre,180,Low Delay,0,0,18.0,13
+2025-06-01,IndiGo,HYD,CCU,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-01,IndiGo,CCU,DEL,5,On-Time,Pre,180,Low Delay,0,0,18.0,5
+2025-06-01,IndiGo,DEL,HYD,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-01,IndiGo,BLR,HYD,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-01,IndiGo,DEL,CCU,9,On-Time,Pre,180,Low Delay,0,0,18.0,9
+2025-06-01,IndiGo,CCU,BOM,8,On-Time,Pre,180,Low Delay,0,0,18.0,8
+2025-06-01,IndiGo,BOM,DEL,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-01,IndiGo,CCU,BLR,4,On-Time,Pre,180,Low Delay,0,0,18.0,4
+2025-06-01,IndiGo,HYD,CCU,7,On-Time,Pre,180,Low Delay,0,0,18.0,7
+2025-06-01,IndiGo,BLR,DEL,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-01,IndiGo,BLR,DEL,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-01,IndiGo,BLR,DEL,8,On-Time,Pre,180,Low Delay,0,0,18.0,8
+2025-06-01,IndiGo,BOM,BLR,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-01,IndiGo,DEL,CCU,3,On-Time,Pre,180,Low Delay,0,0,18.0,3
+2025-06-01,IndiGo,CCU,HYD,1,On-Time,Pre,180,Low Delay,0,0,18.0,1
+2025-06-01,IndiGo,CCU,BLR,7,On-Time,Pre,180,Low Delay,0,0,18.0,7
+2025-06-01,IndiGo,BLR,DEL,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-01,IndiGo,BOM,BLR,2,On-Time,Pre,180,Low Delay,0,0,18.0,2
+2025-06-01,IndiGo,CCU,BOM,9,On-Time,Pre,180,Low Delay,0,0,18.0,9
+2025-06-01,IndiGo,HYD,CCU,6,On-Time,Pre,180,Low Delay,0,0,18.0,6
+2025-06-01,IndiGo,HYD,CCU,5,On-Time,Pre,180,Low Delay,0,0,18.0,5
+2025-06-01,IndiGo,BOM,HYD,9,On-Time,Pre,180,Low Delay,0,0,18.0,9
+2025-06-01,IndiGo,HYD,DEL,1,On-Time,Pre,180,Low Delay,0,0,18.0,1
+2025-06-01,IndiGo,DEL,HYD,3,On-Time,Pre,180,Low Delay,0,0,18.0,3
+2025-06-01,IndiGo,DEL,CCU,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-01,IndiGo,BLR,DEL,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-01,IndiGo,CCU,DEL,3,On-Time,Pre,180,Low Delay,0,0,18.0,3
+2025-06-01,IndiGo,BLR,BOM,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-02,IndiGo,DEL,CCU,6,On-Time,Pre,180,Low Delay,0,0,18.0,6
+2025-06-02,IndiGo,HYD,CCU,4,On-Time,Pre,180,Low Delay,0,0,18.0,4
+2025-06-02,IndiGo,BOM,HYD,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-02,IndiGo,DEL,HYD,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-02,IndiGo,DEL,BLR,1,On-Time,Pre,180,Low Delay,0,0,18.0,1
+2025-06-02,IndiGo,CCU,HYD,5,On-Time,Pre,180,Low Delay,0,0,18.0,5
+2025-06-02,IndiGo,DEL,BOM,2,On-Time,Pre,180,Low Delay,0,0,18.0,2
+2025-06-02,IndiGo,HYD,BOM,2,On-Time,Pre,180,Low Delay,0,0,18.0,2
+2025-06-02,IndiGo,HYD,BLR,1,On-Time,Pre,180,Low Delay,0,0,18.0,1
+2025-06-02,IndiGo,CCU,HYD,8,On-Time,Pre,180,Low Delay,0,0,18.0,8
+2025-06-02,IndiGo,BOM,BLR,11,On-Time,Pre,180,Low Delay,0,0,18.0,11
+2025-06-02,IndiGo,DEL,BOM,3,On-Time,Pre,180,Low Delay,0,0,18.0,3
+2025-06-02,IndiGo,HYD,BLR,13,On-Time,Pre,180,Low Delay,0,0,18.0,13
+2025-06-02,IndiGo,BLR,BOM,9,On-Time,Pre,180,Low Delay,0,0,18.0,9
+2025-06-02,IndiGo,BLR,HYD,8,On-Time,Pre,180,Low Delay,0,0,18.0,8
+2025-06-02,IndiGo,HYD,DEL,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-02,IndiGo,DEL,CCU,8,On-Time,Pre,180,Low Delay,0,0,18.0,8
+2025-06-02,IndiGo,DEL,HYD,4,On-Time,Pre,180,Low Delay,0,0,18.0,4
+2025-06-02,IndiGo,HYD,DEL,3,On-Time,Pre,180,Low Delay,0,0,18.0,3
+2025-06-02,IndiGo,HYD,CCU,7,On-Time,Pre,180,Low Delay,0,0,18.0,7
+2025-06-02,IndiGo,BOM,CCU,11,On-Time,Pre,180,Low Delay,0,0,18.0,11
+2025-06-02,IndiGo,BOM,DEL,17,Delayed,Pre,180,Low Delay,0,0,18.0,17
+2025-06-02,IndiGo,HYD,DEL,6,On-Time,Pre,180,Low Delay,0,0,18.0,6
+2025-06-02,IndiGo,DEL,BOM,8,On-Time,Pre,180,Low Delay,0,0,18.0,8
+2025-06-02,IndiGo,BLR,HYD,7,On-Time,Pre,180,Low Delay,0,0,18.0,7
+2025-06-02,IndiGo,DEL,CCU,6,On-Time,Pre,180,Low Delay,0,0,18.0,6
+2025-06-02,IndiGo,HYD,BLR,9,On-Time,Pre,180,Low Delay,0,0,18.0,9
+2025-06-02,IndiGo,DEL,HYD,13,On-Time,Pre,180,Low Delay,0,0,18.0,13
+2025-06-02,IndiGo,DEL,BOM,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-02,IndiGo,BOM,BLR,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-02,IndiGo,BLR,CCU,4,On-Time,Pre,180,Low Delay,0,0,18.0,4
+2025-06-02,IndiGo,HYD,CCU,3,On-Time,Pre,180,Low Delay,0,0,18.0,3
+2025-06-02,IndiGo,BLR,DEL,7,On-Time,Pre,180,Low Delay,0,0,18.0,7
+2025-06-02,IndiGo,BLR,HYD,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-02,IndiGo,CCU,BLR,6,On-Time,Pre,180,Low Delay,0,0,18.0,6
+2025-06-02,IndiGo,BOM,DEL,9,On-Time,Pre,180,Low Delay,0,0,18.0,9
+2025-06-02,IndiGo,DEL,CCU,9,On-Time,Pre,180,Low Delay,0,0,18.0,9
+2025-06-02,IndiGo,HYD,DEL,6,On-Time,Pre,180,Low Delay,0,0,18.0,6
+2025-06-02,IndiGo,BLR,CCU,5,On-Time,Pre,180,Low Delay,0,0,18.0,5
+2025-06-02,IndiGo,DEL,CCU,4,On-Time,Pre,180,Low Delay,0,0,18.0,4
+2025-06-02,IndiGo,HYD,BOM,4,On-Time,Pre,180,Low Delay,0,0,18.0,4
+2025-06-02,IndiGo,CCU,BLR,8,On-Time,Pre,180,Low Delay,0,0,18.0,8
+2025-06-02,IndiGo,BLR,CCU,2,On-Time,Pre,180,Low Delay,0,0,18.0,2
+2025-06-02,IndiGo,CCU,HYD,8,On-Time,Pre,180,Low Delay,0,0,18.0,8
+2025-06-02,IndiGo,DEL,CCU,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-02,IndiGo,BOM,HYD,3,On-Time,Pre,180,Low Delay,0,0,18.0,3
+2025-06-02,IndiGo,BOM,HYD,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-02,IndiGo,BOM,HYD,5,On-Time,Pre,180,Low Delay,0,0,18.0,5
+2025-06-02,IndiGo,BLR,BOM,6,On-Time,Pre,180,Low Delay,0,0,18.0,6
+2025-06-02,IndiGo,DEL,BOM,7,On-Time,Pre,180,Low Delay,0,0,18.0,7
+2025-06-03,IndiGo,BLR,BOM,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-03,IndiGo,BOM,HYD,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-03,IndiGo,BOM,DEL,1,On-Time,Pre,180,Low Delay,0,0,18.0,1
+2025-06-03,IndiGo,DEL,CCU,5,On-Time,Pre,180,Low Delay,0,0,18.0,5
+2025-06-03,IndiGo,CCU,HYD,11,On-Time,Pre,180,Low Delay,0,0,18.0,11
+2025-06-03,IndiGo,HYD,BLR,9,On-Time,Pre,180,Low Delay,0,0,18.0,9
+2025-06-03,IndiGo,HYD,BOM,5,On-Time,Pre,180,Low Delay,0,0,18.0,5
+2025-06-03,IndiGo,BLR,DEL,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-03,IndiGo,BOM,HYD,2,On-Time,Pre,180,Low Delay,0,0,18.0,2
+2025-06-03,IndiGo,BOM,BLR,7,On-Time,Pre,180,Low Delay,0,0,18.0,7
+2025-06-03,IndiGo,BLR,CCU,9,On-Time,Pre,180,Low Delay,0,0,18.0,9
+2025-06-03,IndiGo,HYD,CCU,2,On-Time,Pre,180,Low Delay,0,0,18.0,2
+2025-06-03,IndiGo,HYD,DEL,11,On-Time,Pre,180,Low Delay,0,0,18.0,11
+2025-06-03,IndiGo,HYD,BOM,4,On-Time,Pre,180,Low Delay,0,0,18.0,4
+2025-06-03,IndiGo,BLR,HYD,4,On-Time,Pre,180,Low Delay,0,0,18.0,4
+2025-06-03,IndiGo,BLR,CCU,2,On-Time,Pre,180,Low Delay,0,0,18.0,2
+2025-06-03,IndiGo,BOM,HYD,1,On-Time,Pre,180,Low Delay,0,0,18.0,1
+2025-06-03,IndiGo,DEL,CCU,2,On-Time,Pre,180,Low Delay,0,0,18.0,2
+2025-06-03,IndiGo,CCU,DEL,3,On-Time,Pre,180,Low Delay,0,0,18.0,3
+2025-06-03,IndiGo,BOM,CCU,3,On-Time,Pre,180,Low Delay,0,0,18.0,3
+2025-06-03,IndiGo,DEL,CCU,5,On-Time,Pre,180,Low Delay,0,0,18.0,5
+2025-06-03,IndiGo,CCU,BLR,7,On-Time,Pre,180,Low Delay,0,0,18.0,7
+2025-06-03,IndiGo,CCU,BOM,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-03,IndiGo,DEL,BOM,6,On-Time,Pre,180,Low Delay,0,0,18.0,6
+2025-06-03,IndiGo,HYD,DEL,3,On-Time,Pre,180,Low Delay,0,0,18.0,3
+2025-06-03,IndiGo,HYD,DEL,1,On-Time,Pre,180,Low Delay,0,0,18.0,1
+2025-06-03,IndiGo,HYD,CCU,4,On-Time,Pre,180,Low Delay,0,0,18.0,4
+2025-06-03,IndiGo,HYD,DEL,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-03,IndiGo,CCU,BLR,3,On-Time,Pre,180,Low Delay,0,0,18.0,3
+2025-06-03,IndiGo,BOM,BLR,7,On-Time,Pre,180,Low Delay,0,0,18.0,7
+2025-06-03,IndiGo,BLR,BOM,20,Delayed,Pre,180,Low Delay,0,0,18.0,20
+2025-06-03,IndiGo,CCU,HYD,5,On-Time,Pre,180,Low Delay,0,0,18.0,5
+2025-06-03,IndiGo,BOM,DEL,6,On-Time,Pre,180,Low Delay,0,0,18.0,6
+2025-06-03,IndiGo,HYD,CCU,9,On-Time,Pre,180,Low Delay,0,0,18.0,9
+2025-06-03,IndiGo,HYD,BOM,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-03,IndiGo,CCU,BLR,6,On-Time,Pre,180,Low Delay,0,0,18.0,6
+2025-06-03,IndiGo,BLR,DEL,10,On-Time,Pre,180,Low Delay,0,0,18.0,10
+2025-06-03,IndiGo,BOM,HYD,7,On-Time,Pre,180,Low Delay,0,0,18.0,7
+2025-06-03,IndiGo,HYD,DEL,2,On-Time,Pre,180,Low Delay,0,0,18.0,2
+2025-06-03,IndiGo,CCU,BOM,6,On-Time,Pre,180,Low Delay,0,0,18.0,6
+2025-06-03,IndiGo,BOM,BLR,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-03,IndiGo,HYD,BOM,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-03,IndiGo,CCU,BOM,9,On-Time,Pre,180,Low Delay,0,0,18.0,9
+2025-06-03,IndiGo,HYD,DEL,6,On-Time,Pre,180,Low Delay,0,0,18.0,6
+2025-06-03,IndiGo,CCU,DEL,0,On-Time,Pre,180,On-Time,0,0,0.0,0
+2025-06-03,IndiGo,DEL,CCU,2,On-Time,Pre,180,Low Delay,0,0,18.0,2
+2025-06-03,IndiGo,BLR,DEL,1,On-Time,Pre,180,Low Delay,0,0,18.0,1
+2025-06-03,IndiGo,DEL,HYD,6,On-Time,Pre,180,Low Delay,0,0,18.0,6
+2025-06-03,IndiGo,CCU,HYD,12,On-Time,Pre,180,Low Delay,0,0,18.0,12
+2025-06-03,IndiGo,DEL,HYD,2,On-Time,Pre,180,Low Delay,0,0,18.0,2
+2025-06-04,IndiGo,DEL,BLR,70,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,70
+2025-06-04,IndiGo,CCU,BLR,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-04,IndiGo,HYD,CCU,85,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,85
+2025-06-04,IndiGo,HYD,BLR,65,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,65
+2025-06-04,IndiGo,CCU,DEL,29,Delayed,Disruption,180,Low Delay,1,0,18.0,29
+2025-06-04,IndiGo,HYD,DEL,21,Delayed,Disruption,180,Low Delay,1,0,18.0,21
+2025-06-04,IndiGo,DEL,HYD,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-04,IndiGo,BOM,DEL,34,Delayed,Disruption,180,Medium Delay,1,0,72.0,34
+2025-06-04,IndiGo,CCU,BLR,105,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,105
+2025-06-04,IndiGo,CCU,HYD,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-04,IndiGo,BOM,HYD,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-04,IndiGo,BLR,CCU,79,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,79
+2025-06-04,IndiGo,DEL,BLR,41,Delayed,Disruption,180,Medium Delay,1,0,72.0,41
+2025-06-04,IndiGo,BLR,BOM,61,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,61
+2025-06-04,IndiGo,BLR,DEL,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-04,IndiGo,HYD,CCU,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-04,IndiGo,DEL,HYD,90,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,90
+2025-06-04,IndiGo,HYD,DEL,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-04,IndiGo,DEL,BLR,124,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,124
+2025-06-04,IndiGo,CCU,DEL,58,Delayed,Disruption,180,Medium Delay,1,0,72.0,58
+2025-06-04,IndiGo,CCU,BLR,63,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,63
+2025-06-04,IndiGo,DEL,BLR,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-04,IndiGo,DEL,BLR,34,Delayed,Disruption,180,Medium Delay,1,0,72.0,34
+2025-06-04,IndiGo,BLR,CCU,131,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,131
+2025-06-04,IndiGo,HYD,CCU,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-04,IndiGo,BOM,CCU,101,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,101
+2025-06-04,IndiGo,BOM,CCU,0,Delayed,Disruption,180,On-Time,1,0,0.0,0
+2025-06-04,IndiGo,HYD,CCU,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-04,IndiGo,BLR,DEL,65,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,65
+2025-06-04,IndiGo,DEL,BLR,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-04,IndiGo,BOM,HYD,117,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,117
+2025-06-04,IndiGo,DEL,HYD,51,Delayed,Disruption,180,Medium Delay,1,0,72.0,51
+2025-06-04,IndiGo,DEL,BLR,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-04,IndiGo,DEL,HYD,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-04,IndiGo,CCU,HYD,78,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,78
+2025-06-04,IndiGo,CCU,BOM,50,Delayed,Disruption,180,Medium Delay,1,0,72.0,50
+2025-06-04,IndiGo,CCU,DEL,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-04,IndiGo,BLR,DEL,6,Delayed,Disruption,180,Low Delay,1,0,18.0,6
+2025-06-04,IndiGo,DEL,BOM,0,Delayed,Disruption,180,On-Time,1,0,0.0,0
+2025-06-04,IndiGo,BOM,CCU,59,Delayed,Disruption,180,Medium Delay,1,0,72.0,59
+2025-06-04,IndiGo,HYD,DEL,47,Delayed,Disruption,180,Medium Delay,1,0,72.0,47
+2025-06-04,IndiGo,CCU,DEL,171,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,171
+2025-06-04,IndiGo,BLR,HYD,79,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,79
+2025-06-04,IndiGo,BOM,BLR,102,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,102
+2025-06-04,IndiGo,BLR,HYD,59,Delayed,Disruption,180,Medium Delay,1,0,72.0,59
+2025-06-04,IndiGo,HYD,BOM,98,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,98
+2025-06-04,IndiGo,BLR,DEL,69,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,69
+2025-06-04,IndiGo,CCU,BOM,101,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,101
+2025-06-04,IndiGo,BOM,DEL,85,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,85
+2025-06-04,IndiGo,DEL,HYD,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-05,IndiGo,BLR,BOM,33,Delayed,Disruption,180,Medium Delay,1,0,72.0,33
+2025-06-05,IndiGo,DEL,HYD,92,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,92
+2025-06-05,IndiGo,BLR,DEL,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-05,IndiGo,CCU,DEL,84,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,84
+2025-06-05,IndiGo,BOM,DEL,72,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,72
+2025-06-05,IndiGo,HYD,BOM,50,Delayed,Disruption,180,Medium Delay,1,0,72.0,50
+2025-06-05,IndiGo,DEL,BLR,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-05,IndiGo,DEL,BLR,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-05,IndiGo,BLR,HYD,77,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,77
+2025-06-05,IndiGo,BOM,CCU,71,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,71
+2025-06-05,IndiGo,BOM,DEL,86,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,86
+2025-06-05,IndiGo,BLR,HYD,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-05,IndiGo,BOM,BLR,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-05,IndiGo,CCU,HYD,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-05,IndiGo,DEL,BOM,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-05,IndiGo,DEL,BOM,26,Delayed,Disruption,180,Low Delay,1,0,18.0,26
+2025-06-05,IndiGo,HYD,BOM,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-05,IndiGo,BOM,HYD,129,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,129
+2025-06-05,IndiGo,DEL,CCU,54,Delayed,Disruption,180,Medium Delay,1,0,72.0,54
+2025-06-05,IndiGo,BOM,CCU,43,Delayed,Disruption,180,Medium Delay,1,0,72.0,43
+2025-06-05,IndiGo,BLR,DEL,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-05,IndiGo,CCU,BOM,62,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,62
+2025-06-05,IndiGo,HYD,BOM,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-05,IndiGo,DEL,HYD,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-05,IndiGo,CCU,HYD,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-05,IndiGo,DEL,BLR,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-05,IndiGo,BLR,BOM,73,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,73
+2025-06-05,IndiGo,BLR,DEL,100,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,100
+2025-06-05,IndiGo,BOM,BLR,33,Delayed,Disruption,180,Medium Delay,1,0,72.0,33
+2025-06-05,IndiGo,HYD,BLR,95,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,95
+2025-06-05,IndiGo,CCU,BOM,67,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,67
+2025-06-05,IndiGo,DEL,BLR,21,Delayed,Disruption,180,Low Delay,1,0,18.0,21
+2025-06-05,IndiGo,BOM,DEL,110,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,110
+2025-06-05,IndiGo,CCU,DEL,46,Delayed,Disruption,180,Medium Delay,1,0,72.0,46
+2025-06-05,IndiGo,BLR,HYD,0,Delayed,Disruption,180,On-Time,1,0,0.0,0
+2025-06-05,IndiGo,DEL,BOM,38,Delayed,Disruption,180,Medium Delay,1,0,72.0,38
+2025-06-05,IndiGo,HYD,BOM,84,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,84
+2025-06-05,IndiGo,HYD,BLR,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-05,IndiGo,HYD,CCU,93,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,93
+2025-06-05,IndiGo,HYD,BOM,89,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,89
+2025-06-05,IndiGo,CCU,DEL,96,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,96
+2025-06-05,IndiGo,DEL,BOM,18,Delayed,Disruption,180,Low Delay,1,0,18.0,18
+2025-06-05,IndiGo,BOM,CCU,140,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,140
+2025-06-05,IndiGo,CCU,BOM,54,Delayed,Disruption,180,Medium Delay,1,0,72.0,54
+2025-06-05,IndiGo,DEL,BOM,21,Delayed,Disruption,180,Low Delay,1,0,18.0,21
+2025-06-05,IndiGo,CCU,HYD,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-05,IndiGo,BLR,BOM,76,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,76
+2025-06-05,IndiGo,HYD,BLR,92,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,92
+2025-06-05,IndiGo,DEL,CCU,89,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,89
+2025-06-05,IndiGo,DEL,BOM,133,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,133
+2025-06-06,IndiGo,BLR,HYD,55,Delayed,Disruption,180,Medium Delay,1,0,72.0,55
+2025-06-06,IndiGo,CCU,BLR,52,Delayed,Disruption,180,Medium Delay,1,0,72.0,52
+2025-06-06,IndiGo,CCU,BLR,38,Delayed,Disruption,180,Medium Delay,1,0,72.0,38
+2025-06-06,IndiGo,CCU,HYD,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-06,IndiGo,HYD,CCU,123,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,123
+2025-06-06,IndiGo,BLR,DEL,149,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,149
+2025-06-06,IndiGo,BOM,CCU,0,Delayed,Disruption,180,On-Time,1,0,0.0,0
+2025-06-06,IndiGo,BLR,CCU,129,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,129
+2025-06-06,IndiGo,BOM,DEL,104,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,104
+2025-06-06,IndiGo,HYD,CCU,32,Delayed,Disruption,180,Medium Delay,1,0,72.0,32
+2025-06-06,IndiGo,CCU,HYD,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-06,IndiGo,BLR,DEL,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-06,IndiGo,DEL,BLR,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-06,IndiGo,DEL,BOM,50,Delayed,Disruption,180,Medium Delay,1,0,72.0,50
+2025-06-06,IndiGo,BLR,CCU,6,Delayed,Disruption,180,Low Delay,1,0,18.0,6
+2025-06-06,IndiGo,BOM,CCU,126,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,126
+2025-06-06,IndiGo,BOM,DEL,61,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,61
+2025-06-06,IndiGo,BOM,HYD,32,Delayed,Disruption,180,Medium Delay,1,0,72.0,32
+2025-06-06,IndiGo,BOM,HYD,9,Delayed,Disruption,180,Low Delay,1,0,18.0,9
+2025-06-06,IndiGo,BLR,BOM,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-06,IndiGo,HYD,BOM,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-06,IndiGo,BOM,DEL,106,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,106
+2025-06-06,IndiGo,DEL,CCU,161,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,161
+2025-06-06,IndiGo,CCU,HYD,4,Delayed,Disruption,180,Low Delay,1,0,18.0,4
+2025-06-06,IndiGo,DEL,CCU,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-06,IndiGo,BLR,BOM,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-06,IndiGo,CCU,DEL,68,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,68
+2025-06-06,IndiGo,BOM,DEL,48,Delayed,Disruption,180,Medium Delay,1,0,72.0,48
+2025-06-06,IndiGo,BOM,BLR,8,Delayed,Disruption,180,Low Delay,1,0,18.0,8
+2025-06-06,IndiGo,BLR,HYD,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-06,IndiGo,CCU,BLR,64,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,64
+2025-06-06,IndiGo,BOM,CCU,91,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,91
+2025-06-06,IndiGo,HYD,CCU,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-06,IndiGo,BLR,CCU,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-06,IndiGo,CCU,HYD,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-06,IndiGo,DEL,CCU,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-06,IndiGo,BOM,HYD,102,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,102
+2025-06-06,IndiGo,BLR,CCU,32,Delayed,Disruption,180,Medium Delay,1,0,72.0,32
+2025-06-06,IndiGo,CCU,BOM,43,Delayed,Disruption,180,Medium Delay,1,0,72.0,43
+2025-06-06,IndiGo,BOM,HYD,32,Delayed,Disruption,180,Medium Delay,1,0,72.0,32
+2025-06-06,IndiGo,CCU,BLR,124,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,124
+2025-06-06,IndiGo,CCU,HYD,108,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,108
+2025-06-06,IndiGo,BOM,HYD,7,Delayed,Disruption,180,Low Delay,1,0,18.0,7
+2025-06-06,IndiGo,DEL,BLR,94,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,94
+2025-06-06,IndiGo,BLR,CCU,76,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,76
+2025-06-06,IndiGo,DEL,BLR,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-06,IndiGo,DEL,CCU,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-06,IndiGo,BLR,BOM,134,Delayed,Disruption,180,High Delay,1,0,125.99999999999999,134
+2025-06-06,IndiGo,BOM,DEL,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-06,IndiGo,BOM,CCU,0,Cancelled,Disruption,180,On-Time,1,1,180.0,180
+2025-06-07,IndiGo,HYD,DEL,36,Delayed,Recovery,180,Medium Delay,0,0,72.0,36
+2025-06-07,IndiGo,DEL,BLR,4,On-Time,Recovery,180,Low Delay,0,0,18.0,4
+2025-06-07,IndiGo,BOM,CCU,33,Delayed,Recovery,180,Medium Delay,0,0,72.0,33
+2025-06-07,IndiGo,HYD,DEL,44,Delayed,Recovery,180,Medium Delay,0,0,72.0,44
+2025-06-07,IndiGo,DEL,BOM,2,On-Time,Recovery,180,Low Delay,0,0,18.0,2
+2025-06-07,IndiGo,BOM,BLR,10,On-Time,Recovery,180,Low Delay,0,0,18.0,10
+2025-06-07,IndiGo,BOM,CCU,32,Delayed,Recovery,180,Medium Delay,0,0,72.0,32
+2025-06-07,IndiGo,CCU,DEL,26,Delayed,Recovery,180,Low Delay,0,0,18.0,26
+2025-06-07,IndiGo,BLR,CCU,42,Delayed,Recovery,180,Medium Delay,0,0,72.0,42
+2025-06-07,IndiGo,BLR,HYD,28,Delayed,Recovery,180,Low Delay,0,0,18.0,28
+2025-06-07,IndiGo,BLR,BOM,61,Delayed,Recovery,180,High Delay,0,0,125.99999999999999,61
+2025-06-07,IndiGo,CCU,HYD,25,Delayed,Recovery,180,Low Delay,0,0,18.0,25
+2025-06-07,IndiGo,DEL,BLR,21,Delayed,Recovery,180,Low Delay,0,0,18.0,21
+2025-06-07,IndiGo,BLR,DEL,31,Delayed,Recovery,180,Medium Delay,0,0,72.0,31
+2025-06-07,IndiGo,BLR,BOM,22,Delayed,Recovery,180,Low Delay,0,0,18.0,22
+2025-06-07,IndiGo,DEL,BOM,64,Delayed,Recovery,180,High Delay,0,0,125.99999999999999,64
+2025-06-07,IndiGo,DEL,BOM,59,Delayed,Recovery,180,Medium Delay,0,0,72.0,59
+2025-06-07,IndiGo,BOM,DEL,29,Delayed,Recovery,180,Low Delay,0,0,18.0,29
+2025-06-07,IndiGo,BLR,HYD,25,Delayed,Recovery,180,Low Delay,0,0,18.0,25
+2025-06-07,IndiGo,BLR,HYD,20,Delayed,Recovery,180,Low Delay,0,0,18.0,20
+2025-06-07,IndiGo,DEL,BOM,39,Delayed,Recovery,180,Medium Delay,0,0,72.0,39
+2025-06-07,IndiGo,DEL,HYD,45,Delayed,Recovery,180,Medium Delay,0,0,72.0,45
+2025-06-07,IndiGo,HYD,BOM,49,Delayed,Recovery,180,Medium Delay,0,0,72.0,49
+2025-06-07,IndiGo,CCU,BOM,40,Delayed,Recovery,180,Medium Delay,0,0,72.0,40
+2025-06-07,IndiGo,DEL,BLR,7,On-Time,Recovery,180,Low Delay,0,0,18.0,7
+2025-06-07,IndiGo,BOM,DEL,29,Delayed,Recovery,180,Low Delay,0,0,18.0,29
+2025-06-07,IndiGo,CCU,BOM,42,Delayed,Recovery,180,Medium Delay,0,0,72.0,42
+2025-06-07,IndiGo,CCU,BLR,32,Delayed,Recovery,180,Medium Delay,0,0,72.0,32
+2025-06-07,IndiGo,DEL,HYD,29,Delayed,Recovery,180,Low Delay,0,0,18.0,29
+2025-06-07,IndiGo,HYD,BLR,40,Delayed,Recovery,180,Medium Delay,0,0,72.0,40
+2025-06-07,IndiGo,BLR,BOM,62,Delayed,Recovery,180,High Delay,0,0,125.99999999999999,62
+2025-06-07,IndiGo,BLR,CCU,35,Delayed,Recovery,180,Medium Delay,0,0,72.0,35
+2025-06-07,IndiGo,HYD,DEL,33,Delayed,Recovery,180,Medium Delay,0,0,72.0,33
+2025-06-07,IndiGo,BOM,HYD,22,Delayed,Recovery,180,Low Delay,0,0,18.0,22
+2025-06-07,IndiGo,HYD,BLR,36,Delayed,Recovery,180,Medium Delay,0,0,72.0,36
+2025-06-07,IndiGo,CCU,BOM,1,On-Time,Recovery,180,Low Delay,0,0,18.0,1
+2025-06-07,IndiGo,DEL,BOM,43,Delayed,Recovery,180,Medium Delay,0,0,72.0,43
+2025-06-07,IndiGo,BOM,CCU,34,Delayed,Recovery,180,Medium Delay,0,0,72.0,34
+2025-06-07,IndiGo,BOM,HYD,33,Delayed,Recovery,180,Medium Delay,0,0,72.0,33
+2025-06-07,IndiGo,BLR,HYD,29,Delayed,Recovery,180,Low Delay,0,0,18.0,29
+2025-06-07,IndiGo,CCU,DEL,39,Delayed,Recovery,180,Medium Delay,0,0,72.0,39
+2025-06-07,IndiGo,BLR,HYD,27,Delayed,Recovery,180,Low Delay,0,0,18.0,27
+2025-06-07,IndiGo,HYD,DEL,22,Delayed,Recovery,180,Low Delay,0,0,18.0,22
+2025-06-07,IndiGo,CCU,HYD,51,Delayed,Recovery,180,Medium Delay,0,0,72.0,51
+2025-06-07,IndiGo,DEL,CCU,23,Delayed,Recovery,180,Low Delay,0,0,18.0,23
+2025-06-07,IndiGo,HYD,DEL,51,Delayed,Recovery,180,Medium Delay,0,0,72.0,51
+2025-06-07,IndiGo,DEL,BLR,29,Delayed,Recovery,180,Low Delay,0,0,18.0,29
+2025-06-07,IndiGo,BOM,CCU,27,Delayed,Recovery,180,Low Delay,0,0,18.0,27
+2025-06-07,IndiGo,BOM,BLR,6,On-Time,Recovery,180,Low Delay,0,0,18.0,6
+2025-06-07,IndiGo,CCU,BOM,39,Delayed,Recovery,180,Medium Delay,0,0,72.0,39
+2025-06-08,IndiGo,DEL,HYD,53,Delayed,Recovery,180,Medium Delay,0,0,72.0,53
+2025-06-08,IndiGo,HYD,BLR,15,Delayed,Recovery,180,Low Delay,0,0,18.0,15
+2025-06-08,IndiGo,BOM,DEL,44,Delayed,Recovery,180,Medium Delay,0,0,72.0,44
+2025-06-08,IndiGo,BLR,BOM,26,Delayed,Recovery,180,Low Delay,0,0,18.0,26
+2025-06-08,IndiGo,CCU,BOM,47,Delayed,Recovery,180,Medium Delay,0,0,72.0,47
+2025-06-08,IndiGo,CCU,BOM,54,Delayed,Recovery,180,Medium Delay,0,0,72.0,54
+2025-06-08,IndiGo,BOM,HYD,22,Delayed,Recovery,180,Low Delay,0,0,18.0,22
+2025-06-08,IndiGo,DEL,BLR,21,Delayed,Recovery,180,Low Delay,0,0,18.0,21
+2025-06-08,IndiGo,BLR,CCU,22,Delayed,Recovery,180,Low Delay,0,0,18.0,22
+2025-06-08,IndiGo,DEL,BOM,27,Delayed,Recovery,180,Low Delay,0,0,18.0,27
+2025-06-08,IndiGo,BLR,CCU,51,Delayed,Recovery,180,Medium Delay,0,0,72.0,51
+2025-06-08,IndiGo,DEL,CCU,21,Delayed,Recovery,180,Low Delay,0,0,18.0,21
+2025-06-08,IndiGo,BLR,CCU,63,Delayed,Recovery,180,High Delay,0,0,125.99999999999999,63
+2025-06-08,IndiGo,CCU,BLR,20,Delayed,Recovery,180,Low Delay,0,0,18.0,20
+2025-06-08,IndiGo,DEL,BOM,0,On-Time,Recovery,180,On-Time,0,0,0.0,0
+2025-06-08,IndiGo,BLR,CCU,16,Delayed,Recovery,180,Low Delay,0,0,18.0,16
+2025-06-08,IndiGo,CCU,DEL,28,Delayed,Recovery,180,Low Delay,0,0,18.0,28
+2025-06-08,IndiGo,DEL,BOM,27,Delayed,Recovery,180,Low Delay,0,0,18.0,27
+2025-06-08,IndiGo,BLR,HYD,15,Delayed,Recovery,180,Low Delay,0,0,18.0,15
+2025-06-08,IndiGo,BLR,DEL,17,Delayed,Recovery,180,Low Delay,0,0,18.0,17
+2025-06-08,IndiGo,BOM,BLR,22,Delayed,Recovery,180,Low Delay,0,0,18.0,22
+2025-06-08,IndiGo,DEL,BLR,33,Delayed,Recovery,180,Medium Delay,0,0,72.0,33
+2025-06-08,IndiGo,CCU,HYD,43,Delayed,Recovery,180,Medium Delay,0,0,72.0,43
+2025-06-08,IndiGo,BLR,CCU,30,Delayed,Recovery,180,Low Delay,0,0,18.0,30
+2025-06-08,IndiGo,BOM,CCU,5,On-Time,Recovery,180,Low Delay,0,0,18.0,5
+2025-06-08,IndiGo,BLR,CCU,36,Delayed,Recovery,180,Medium Delay,0,0,72.0,36
+2025-06-08,IndiGo,HYD,DEL,26,Delayed,Recovery,180,Low Delay,0,0,18.0,26
+2025-06-08,IndiGo,CCU,BLR,25,Delayed,Recovery,180,Low Delay,0,0,18.0,25
+2025-06-08,IndiGo,CCU,DEL,16,Delayed,Recovery,180,Low Delay,0,0,18.0,16
+2025-06-08,IndiGo,CCU,BLR,38,Delayed,Recovery,180,Medium Delay,0,0,72.0,38
+2025-06-08,IndiGo,CCU,BOM,45,Delayed,Recovery,180,Medium Delay,0,0,72.0,45
+2025-06-08,IndiGo,BOM,BLR,28,Delayed,Recovery,180,Low Delay,0,0,18.0,28
+2025-06-08,IndiGo,BLR,DEL,19,Delayed,Recovery,180,Low Delay,0,0,18.0,19
+2025-06-08,IndiGo,HYD,BOM,37,Delayed,Recovery,180,Medium Delay,0,0,72.0,37
+2025-06-08,IndiGo,CCU,DEL,18,Delayed,Recovery,180,Low Delay,0,0,18.0,18
+2025-06-08,IndiGo,CCU,BOM,20,Delayed,Recovery,180,Low Delay,0,0,18.0,20
+2025-06-08,IndiGo,BLR,DEL,15,Delayed,Recovery,180,Low Delay,0,0,18.0,15
+2025-06-08,IndiGo,BOM,CCU,32,Delayed,Recovery,180,Medium Delay,0,0,72.0,32
+2025-06-08,IndiGo,CCU,BLR,24,Delayed,Recovery,180,Low Delay,0,0,18.0,24
+2025-06-08,IndiGo,BOM,DEL,19,Delayed,Recovery,180,Low Delay,0,0,18.0,19
+2025-06-08,IndiGo,BOM,HYD,12,On-Time,Recovery,180,Low Delay,0,0,18.0,12
+2025-06-08,IndiGo,CCU,DEL,24,Delayed,Recovery,180,Low Delay,0,0,18.0,24
+2025-06-08,IndiGo,HYD,CCU,23,Delayed,Recovery,180,Low Delay,0,0,18.0,23
+2025-06-08,IndiGo,BLR,CCU,32,Delayed,Recovery,180,Medium Delay,0,0,72.0,32
+2025-06-08,IndiGo,DEL,CCU,31,Delayed,Recovery,180,Medium Delay,0,0,72.0,31
+2025-06-08,IndiGo,DEL,BLR,19,Delayed,Recovery,180,Low Delay,0,0,18.0,19
+2025-06-08,IndiGo,BOM,CCU,21,Delayed,Recovery,180,Low Delay,0,0,18.0,21
+2025-06-08,IndiGo,CCU,HYD,35,Delayed,Recovery,180,Medium Delay,0,0,72.0,35
+2025-06-08,IndiGo,CCU,BLR,23,Delayed,Recovery,180,Low Delay,0,0,18.0,23
+2025-06-08,IndiGo,BLR,HYD,46,Delayed,Recovery,180,Medium Delay,0,0,72.0,46
+2025-06-09,IndiGo,BOM,HYD,4,On-Time,Recovery,180,Low Delay,0,0,18.0,4
+2025-06-09,IndiGo,CCU,HYD,23,Delayed,Recovery,180,Low Delay,0,0,18.0,23
+2025-06-09,IndiGo,DEL,HYD,11,On-Time,Recovery,180,Low Delay,0,0,18.0,11
+2025-06-09,IndiGo,CCU,DEL,27,Delayed,Recovery,180,Low Delay,0,0,18.0,27
+2025-06-09,IndiGo,BLR,CCU,36,Delayed,Recovery,180,Medium Delay,0,0,72.0,36
+2025-06-09,IndiGo,HYD,BOM,38,Delayed,Recovery,180,Medium Delay,0,0,72.0,38
+2025-06-09,IndiGo,BLR,HYD,2,On-Time,Recovery,180,Low Delay,0,0,18.0,2
+2025-06-09,IndiGo,BOM,CCU,21,Delayed,Recovery,180,Low Delay,0,0,18.0,21
+2025-06-09,IndiGo,BOM,DEL,35,Delayed,Recovery,180,Medium Delay,0,0,72.0,35
+2025-06-09,IndiGo,HYD,BOM,25,Delayed,Recovery,180,Low Delay,0,0,18.0,25
+2025-06-09,IndiGo,HYD,CCU,11,On-Time,Recovery,180,Low Delay,0,0,18.0,11
+2025-06-09,IndiGo,DEL,BOM,32,Delayed,Recovery,180,Medium Delay,0,0,72.0,32
+2025-06-09,IndiGo,CCU,DEL,27,Delayed,Recovery,180,Low Delay,0,0,18.0,27
+2025-06-09,IndiGo,BOM,CCU,12,On-Time,Recovery,180,Low Delay,0,0,18.0,12
+2025-06-09,IndiGo,BLR,DEL,32,Delayed,Recovery,180,Medium Delay,0,0,72.0,32
+2025-06-09,IndiGo,DEL,BLR,40,Delayed,Recovery,180,Medium Delay,0,0,72.0,40
+2025-06-09,IndiGo,DEL,BLR,19,Delayed,Recovery,180,Low Delay,0,0,18.0,19
+2025-06-09,IndiGo,DEL,CCU,57,Delayed,Recovery,180,Medium Delay,0,0,72.0,57
+2025-06-09,IndiGo,CCU,DEL,8,On-Time,Recovery,180,Low Delay,0,0,18.0,8
+2025-06-09,IndiGo,CCU,DEL,59,Delayed,Recovery,180,Medium Delay,0,0,72.0,59
+2025-06-09,IndiGo,CCU,BOM,15,Delayed,Recovery,180,Low Delay,0,0,18.0,15
+2025-06-09,IndiGo,BLR,DEL,54,Delayed,Recovery,180,Medium Delay,0,0,72.0,54
+2025-06-09,IndiGo,DEL,BOM,44,Delayed,Recovery,180,Medium Delay,0,0,72.0,44
+2025-06-09,IndiGo,DEL,BOM,42,Delayed,Recovery,180,Medium Delay,0,0,72.0,42
+2025-06-09,IndiGo,HYD,DEL,25,Delayed,Recovery,180,Low Delay,0,0,18.0,25
+2025-06-09,IndiGo,HYD,CCU,30,Delayed,Recovery,180,Low Delay,0,0,18.0,30
+2025-06-09,IndiGo,DEL,BLR,30,Delayed,Recovery,180,Low Delay,0,0,18.0,30
+2025-06-09,IndiGo,DEL,BOM,18,Delayed,Recovery,180,Low Delay,0,0,18.0,18
+2025-06-09,IndiGo,DEL,BOM,27,Delayed,Recovery,180,Low Delay,0,0,18.0,27
+2025-06-09,IndiGo,BOM,BLR,19,Delayed,Recovery,180,Low Delay,0,0,18.0,19
+2025-06-09,IndiGo,BOM,BLR,43,Delayed,Recovery,180,Medium Delay,0,0,72.0,43
+2025-06-09,IndiGo,BOM,HYD,38,Delayed,Recovery,180,Medium Delay,0,0,72.0,38
+2025-06-09,IndiGo,HYD,DEL,33,Delayed,Recovery,180,Medium Delay,0,0,72.0,33
+2025-06-09,IndiGo,DEL,HYD,43,Delayed,Recovery,180,Medium Delay,0,0,72.0,43
+2025-06-09,IndiGo,DEL,BLR,48,Delayed,Recovery,180,Medium Delay,0,0,72.0,48
+2025-06-09,IndiGo,BLR,HYD,38,Delayed,Recovery,180,Medium Delay,0,0,72.0,38
+2025-06-09,IndiGo,BLR,CCU,62,Delayed,Recovery,180,High Delay,0,0,125.99999999999999,62
+2025-06-09,IndiGo,BOM,HYD,47,Delayed,Recovery,180,Medium Delay,0,0,72.0,47
+2025-06-09,IndiGo,BLR,HYD,56,Delayed,Recovery,180,Medium Delay,0,0,72.0,56
+2025-06-09,IndiGo,BLR,BOM,32,Delayed,Recovery,180,Medium Delay,0,0,72.0,32
+2025-06-09,IndiGo,HYD,BLR,25,Delayed,Recovery,180,Low Delay,0,0,18.0,25
+2025-06-09,IndiGo,BLR,BOM,62,Delayed,Recovery,180,High Delay,0,0,125.99999999999999,62
+2025-06-09,IndiGo,BLR,HYD,55,Delayed,Recovery,180,Medium Delay,0,0,72.0,55
+2025-06-09,IndiGo,CCU,BLR,26,Delayed,Recovery,180,Low Delay,0,0,18.0,26
+2025-06-09,IndiGo,CCU,BLR,37,Delayed,Recovery,180,Medium Delay,0,0,72.0,37
+2025-06-09,IndiGo,BLR,HYD,0,On-Time,Recovery,180,On-Time,0,0,0.0,0
+2025-06-09,IndiGo,HYD,BOM,9,On-Time,Recovery,180,Low Delay,0,0,18.0,9
+2025-06-09,IndiGo,DEL,HYD,22,Delayed,Recovery,180,Low Delay,0,0,18.0,22
+2025-06-09,IndiGo,HYD,DEL,35,Delayed,Recovery,180,Medium Delay,0,0,72.0,35
+2025-06-09,IndiGo,CCU,HYD,39,Delayed,Recovery,180,Medium Delay,0,0,72.0,39
+2025-06-10,IndiGo,HYD,DEL,11,On-Time,Recovery,180,Low Delay,0,0,18.0,11
+2025-06-10,IndiGo,HYD,CCU,8,On-Time,Recovery,180,Low Delay,0,0,18.0,8
+2025-06-10,IndiGo,BOM,DEL,68,Delayed,Recovery,180,High Delay,0,0,125.99999999999999,68
+2025-06-10,IndiGo,BOM,DEL,36,Delayed,Recovery,180,Medium Delay,0,0,72.0,36
+2025-06-10,IndiGo,BOM,CCU,52,Delayed,Recovery,180,Medium Delay,0,0,72.0,52
+2025-06-10,IndiGo,HYD,BOM,54,Delayed,Recovery,180,Medium Delay,0,0,72.0,54
+2025-06-10,IndiGo,BOM,HYD,42,Delayed,Recovery,180,Medium Delay,0,0,72.0,42
+2025-06-10,IndiGo,HYD,BLR,32,Delayed,Recovery,180,Medium Delay,0,0,72.0,32
+2025-06-10,IndiGo,CCU,BOM,50,Delayed,Recovery,180,Medium Delay,0,0,72.0,50
+2025-06-10,IndiGo,BLR,BOM,41,Delayed,Recovery,180,Medium Delay,0,0,72.0,41
+2025-06-10,IndiGo,HYD,CCU,54,Delayed,Recovery,180,Medium Delay,0,0,72.0,54
+2025-06-10,IndiGo,BOM,HYD,49,Delayed,Recovery,180,Medium Delay,0,0,72.0,49
+2025-06-10,IndiGo,CCU,DEL,28,Delayed,Recovery,180,Low Delay,0,0,18.0,28
+2025-06-10,IndiGo,HYD,DEL,18,Delayed,Recovery,180,Low Delay,0,0,18.0,18
+2025-06-10,IndiGo,DEL,CCU,12,On-Time,Recovery,180,Low Delay,0,0,18.0,12
+2025-06-10,IndiGo,BLR,DEL,34,Delayed,Recovery,180,Medium Delay,0,0,72.0,34
+2025-06-10,IndiGo,DEL,CCU,42,Delayed,Recovery,180,Medium Delay,0,0,72.0,42
+2025-06-10,IndiGo,DEL,CCU,11,On-Time,Recovery,180,Low Delay,0,0,18.0,11
+2025-06-10,IndiGo,HYD,CCU,8,On-Time,Recovery,180,Low Delay,0,0,18.0,8
+2025-06-10,IndiGo,BLR,BOM,21,Delayed,Recovery,180,Low Delay,0,0,18.0,21
+2025-06-10,IndiGo,BLR,BOM,31,Delayed,Recovery,180,Medium Delay,0,0,72.0,31
+2025-06-10,IndiGo,BOM,CCU,10,On-Time,Recovery,180,Low Delay,0,0,18.0,10
+2025-06-10,IndiGo,DEL,BOM,62,Delayed,Recovery,180,High Delay,0,0,125.99999999999999,62
+2025-06-10,IndiGo,HYD,DEL,11,On-Time,Recovery,180,Low Delay,0,0,18.0,11
+2025-06-10,IndiGo,DEL,CCU,10,On-Time,Recovery,180,Low Delay,0,0,18.0,10
+2025-06-10,IndiGo,BLR,DEL,7,On-Time,Recovery,180,Low Delay,0,0,18.0,7
+2025-06-10,IndiGo,CCU,HYD,48,Delayed,Recovery,180,Medium Delay,0,0,72.0,48
+2025-06-10,IndiGo,HYD,CCU,28,Delayed,Recovery,180,Low Delay,0,0,18.0,28
+2025-06-10,IndiGo,HYD,BLR,25,Delayed,Recovery,180,Low Delay,0,0,18.0,25
+2025-06-10,IndiGo,CCU,HYD,35,Delayed,Recovery,180,Medium Delay,0,0,72.0,35
+2025-06-10,IndiGo,BOM,BLR,30,Delayed,Recovery,180,Low Delay,0,0,18.0,30
+2025-06-10,IndiGo,HYD,BOM,19,Delayed,Recovery,180,Low Delay,0,0,18.0,19
+2025-06-10,IndiGo,CCU,DEL,28,Delayed,Recovery,180,Low Delay,0,0,18.0,28
+2025-06-10,IndiGo,CCU,BLR,14,On-Time,Recovery,180,Low Delay,0,0,18.0,14
+2025-06-10,IndiGo,CCU,DEL,21,Delayed,Recovery,180,Low Delay,0,0,18.0,21
+2025-06-10,IndiGo,BOM,CCU,30,Delayed,Recovery,180,Low Delay,0,0,18.0,30
+2025-06-10,IndiGo,CCU,BOM,32,Delayed,Recovery,180,Medium Delay,0,0,72.0,32
+2025-06-10,IndiGo,DEL,HYD,36,Delayed,Recovery,180,Medium Delay,0,0,72.0,36
+2025-06-10,IndiGo,BLR,BOM,36,Delayed,Recovery,180,Medium Delay,0,0,72.0,36
+2025-06-10,IndiGo,CCU,HYD,0,On-Time,Recovery,180,On-Time,0,0,0.0,0
+2025-06-10,IndiGo,BOM,BLR,19,Delayed,Recovery,180,Low Delay,0,0,18.0,19
+2025-06-10,IndiGo,CCU,DEL,37,Delayed,Recovery,180,Medium Delay,0,0,72.0,37
+2025-06-10,IndiGo,CCU,HYD,42,Delayed,Recovery,180,Medium Delay,0,0,72.0,42
+2025-06-10,IndiGo,BOM,HYD,11,On-Time,Recovery,180,Low Delay,0,0,18.0,11
+2025-06-10,IndiGo,BOM,BLR,66,Delayed,Recovery,180,High Delay,0,0,125.99999999999999,66
+2025-06-10,IndiGo,DEL,CCU,29,Delayed,Recovery,180,Low Delay,0,0,18.0,29
+2025-06-10,IndiGo,BLR,CCU,39,Delayed,Recovery,180,Medium Delay,0,0,72.0,39
+2025-06-10,IndiGo,CCU,HYD,32,Delayed,Recovery,180,Medium Delay,0,0,72.0,32
+2025-06-10,IndiGo,CCU,DEL,34,Delayed,Recovery,180,Medium Delay,0,0,72.0,34
+2025-06-10,IndiGo,BOM,CCU,18,Delayed,Recovery,180,Low Delay,0,0,18.0,18
